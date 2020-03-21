@@ -31,7 +31,7 @@ Ned and Iliya
 Co-founders
 - Choose the "Start For Free" option!
 
-## [For School ( and general ),links for Science, Art, Literature, and Reading And Visual Material](https://docs.google.com/document/d/1gsYgTuNjQLXw-3Vj8r9uO8OLYFtG1weYWiEZm_eI96s/edit?fbclid=IwAR1QnJAt0iJGfxH5CjJFHIHH08-mPC5RRkjhoOM5iyynwA2NPggnjCzhCns) 
+## [For School ( and general ), links for Science, Art, Literature, and Reading And Visual Material](https://docs.google.com/document/d/1gsYgTuNjQLXw-3Vj8r9uO8OLYFtG1weYWiEZm_eI96s/edit?fbclid=IwAR1QnJAt0iJGfxH5CjJFHIHH08-mPC5RRkjhoOM5iyynwA2NPggnjCzhCns) 
 
 - Thanks to [Insufferably Intolerant Science Nerd](https://web.facebook.com/InsufferableIntolerance/posts/1636479563179822?hc_location=ufi). The original post is at this [link](https://web.facebook.com/InsufferableIntolerance/posts/1636479563179822?hc_location=ufi).
 - If you appreciate this post, please consider buying the [eBook](https://pizza-and-pincushions.myshopify.com/products/pizza-and-pin-cushions) as a thank you.
