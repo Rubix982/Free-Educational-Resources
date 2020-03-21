@@ -5,6 +5,12 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [PyImageSearch](https://www.pyimagesearch.com/2020/03/17/i-want-to-help-you-the-best-i-can-during-covid-19/)
+
+- Adrian Rosenbrock is offering a sharp discount for his books to study from during the outbreak. Deadline not mentiond.
+
+***TAGS***: Computer Vision, Deep Learning, Embedded Devices
+
 ## [Scribd](https://www.scribd.com/readfree?utm_source=readfree&fbclid=IwAR1pdCApyaqs3BGtDHOW6lOWe_Y0_V3QdE50P_yYCJpACM_t7IZWq1Ip3EE)
 
 - A letter from our CEO, Trip Adler:
@@ -28,6 +34,7 @@ Co-founders
 ## [For School ( and general ),links for Science, Art, Literature, and Reading And Visual Material](https://docs.google.com/document/d/1gsYgTuNjQLXw-3Vj8r9uO8OLYFtG1weYWiEZm_eI96s/edit?fbclid=IwAR1QnJAt0iJGfxH5CjJFHIHH08-mPC5RRkjhoOM5iyynwA2NPggnjCzhCns) 
 
 - Thanks to [Insufferably Intolerant Science Nerd](https://web.facebook.com/InsufferableIntolerance/posts/1636479563179822?hc_location=ufi). The original post is at this [link](https://web.facebook.com/InsufferableIntolerance/posts/1636479563179822?hc_location=ufi).
+- If you appreciate this post, please consider buying the [eBook](https://pizza-and-pincushions.myshopify.com/products/pizza-and-pin-cushions) as a thank you.
 
 ## [Coursera](https://www.coursera.org/coronavirus?fbclid=IwAR13qjUyUeUXP96t_AiB6PmTWJvXi90LCaYN5Etg4vV6lqKx-JJ6uTJJjbg)
 
@@ -126,6 +133,7 @@ Udemy's 30+ free courses. The below is the list of course sbeing offered:
 
 - [Data Analysis - Pandas](https://www.udemy.com/co…/data-analysis-with-pandas-python/…)
 
+---
 # Resources, But Not Related To Corona
 
 ## [Github Education Pack](https://education.github.com/pack)
