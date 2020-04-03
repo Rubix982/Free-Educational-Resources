@@ -11,6 +11,10 @@ This is not a repository to contain solely programming or computer science relat
 
 ***TAGS***: Computer Vision, Deep Learning, Embedded Devices
 
+## [PluralSight](https://www.pluralsight.com/offer/2020/free-april-month)
+
+- PluralSight announces they are making 7K courses free, no credit cards attached, for the entire month of April.
+
 ## [Scribd](https://www.scribd.com/readfree?utm_source=readfree&fbclid=IwAR1pdCApyaqs3BGtDHOW6lOWe_Y0_V3QdE50P_yYCJpACM_t7IZWq1Ip3EE)
 
 - A letter from our CEO, Trip Adler:
