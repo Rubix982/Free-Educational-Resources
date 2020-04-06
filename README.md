@@ -5,6 +5,10 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Code In Place - Standford](https://compedu.stanford.edu/codeinplace/announcement/)
+
+- Stanford University's Computer Science department is holding a unique MOOC called 'Code in Place.' This is a free course to learn python. It is a live class environemtn and not a typical video-based curriculum. 
+
 ## [PyImageSearch](https://www.pyimagesearch.com/2020/03/17/i-want-to-help-you-the-best-i-can-during-covid-19/)
 
 - Adrian Rosenbrock is offering a sharp discount for his books to study from during the outbreak. Deadline not mentiond.
