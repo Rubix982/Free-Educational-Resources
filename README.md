@@ -59,6 +59,8 @@ Universities can sign up to provide their enrolled students with access to more 
 
 ## Udemy
 
+### ! EXPIRED LINKS - MAY NOT WORK AS EXPECTED
+
 Udemy's 30+ free courses. The below is the list of course sbeing offered:
 
 - WordPress Course: https://bit.ly/2UuTYdc [Expires in 50 Mins]
