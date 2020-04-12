@@ -5,6 +5,10 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Learn Digital With Google](https://learndigital.withgoogle.com/digitalgarage/courses)
+
+- Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
+
 ## [Code In Place - Standford](https://compedu.stanford.edu/codeinplace/announcement/)
 
 - Stanford University's Computer Science department is holding a unique MOOC called 'Code in Place.' This is a free course to learn python. It is a live class environemtn and not a typical video-based curriculum. 
