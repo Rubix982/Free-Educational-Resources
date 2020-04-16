@@ -5,6 +5,14 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Coursera Offers Free Certificates for 85 Courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/?fbclid=IwAR3P4sEXpv5YhsVPVgYIA7XCCY_5vuhXrV8r8g92_0iasEg_6N2EHE9VL8Y)
+
+>> None of the courses belong to a Coursera Specialization. This offer is only valid until the end of May 2020. Once you checkout, you will have 180 days to earn a certificate.
+
+>>> These courses come from ~50 universities including Penn, Georgia Tech, Johns Hopkins, Caltech, Duke, and Imperial College London. Courses from companies like Google and Amazon are also included.
+
+>>> Eight courses from Class Central’s best online courses of all time ranking are also part of this list. These are the first eight courses in the list below.
+
 ## [Learn Digital With Google](https://learndigital.withgoogle.com/digitalgarage/courses)
 
 - Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
