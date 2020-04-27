@@ -5,13 +5,22 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Free Textbooks and Library Link special issue during Covid 19 package - Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&showAll=false)
+
+- Springer releases free books for quarantine
+- Also see [Springer has released 65 Machine Learning and Data books for free](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
+- Via Reddit at [Springer just released 65 books related to Machine Learning](https://www.reddit.com/r/learnprogramming/comments/g8wdb1/springer_just_released_65_books_related_to/), Bash one-liner to download Search Results (use export function), by `u/WrongAndBoring`. Please see the relevant reddit comment for more details,
+```
+while IFS=, read -r title shit{0,1,2,3} id author year link moreshit; do wget  -O "${author//\"/} (${year//\"/}) - ${title//\"/}.pdf" "https://link.springer.com/content/pdf/${id//\"/}.pdf"; done < SearchResults.csv
+```
+
 ## [Coursera Offers Free Certificates for 85 Courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/?fbclid=IwAR3P4sEXpv5YhsVPVgYIA7XCCY_5vuhXrV8r8g92_0iasEg_6N2EHE9VL8Y)
 
->> None of the courses belong to a Coursera Specialization. This offer is only valid until the end of May 2020. Once you checkout, you will have 180 days to earn a certificate.
+None of the courses belong to a Coursera Specialization. This offer is only valid until the end of May 2020. Once you checkout, you will have 180 days to earn a certificate.
 
->>> These courses come from ~50 universities including Penn, Georgia Tech, Johns Hopkins, Caltech, Duke, and Imperial College London. Courses from companies like Google and Amazon are also included.
+These courses come from ~50 universities including Penn, Georgia Tech, Johns Hopkins, Caltech, Duke, and Imperial College London. Courses from companies like Google and Amazon are also included.
 
->>> Eight courses from Class Central’s best online courses of all time ranking are also part of this list. These are the first eight courses in the list below.
+Eight courses from Class Central’s best online courses of all time ranking are also part of this list. These are the first eight courses in the list below.
 
 ## [Learn Digital With Google](https://learndigital.withgoogle.com/digitalgarage/courses)
 
