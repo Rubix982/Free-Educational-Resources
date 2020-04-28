@@ -5,6 +5,15 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Udemy Offers 500+ Free Courses](https://www.udemy.com/courses/free/?lang=en&sort=popularity)
+
+- We’re here to help. We understand things feel uncertain right now, and we’re all looking for ways we can help. At Udemy, our mission is to improve lives through learning. Sometimes that means new skills for a new career, and sometimes it’s as simple as realizing a lifelong passion. To support you through this time, we’ve put together this collection from the free courses in our learning marketplace.
+
+## [Oracle Ramps Up Free Online Learning and Certifications for Oracle Cloud Infrastructure and Oracle Autonomous Database](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html)
+
+- Starting now, any user, including developers, technical professionals, architects, students and professors, will have quick and easy access to more than 50 hours of online training and 6 certification exams. As part of this offer, learners are given one free attempt per exam.
+  - Oracle University will provide users with free access to an extensive library of materials for Oracle Cloud Infrastructure and Oracle Autonomous Database, as well as content related to topics such as data science, machine learning, and multi-cloud environments such as integration with Microsoft Azure.
+
 ## [Free Textbooks and Library Link special issue during Covid 19 package - Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&showAll=false)
 
 - Springer releases free books for quarantine
