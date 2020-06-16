@@ -23,6 +23,34 @@ This is not a repository to contain solely programming or computer science relat
 while IFS=, read -r title shit{0,1,2,3} id author year link moreshit; do wget  -O "${author//\"/} (${year//\"/}) - ${title//\"/}.pdf" "https://link.springer.com/content/pdf/${id//\"/}.pdf"; done < SearchResults.csv
 ```
 
+- A collection of free books from Springer, by [hnarayanan](https://github.com/hnarayanan)
+  - To help support everyone during Covid-19, [Springer has released a ton of free textbooks](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960). This is great, but their web page for this is not super friendly, and expects you to download [some Excel sheet](https://resource-cms.springernature.com/springer-cms/rest/v1/content/17858272/data/v8) to figure out what they have on offer.
+  - This web page hopes to make it easier to access all this knowledge. You can follow [me on Twitter for more](https://twitter.com/copingbear).
+  - The list is [here](https://hnarayanan.github.io/springer-books/#Computer%20Science)
+  - Overall, the list is this,
+    - Behavioral Science
+    - Behavioral Science and Psychology
+    - Biomedical and Life Sciences
+    - Business and Economics
+    - Business and Management
+    - Chemistry and Materials Science
+    - Computer Science
+    - Earth and Environmental Science
+    - Economics and Finance
+    - Education
+    - Energy
+    - Engineering
+    - Humanities, Social Sciences and Law
+    - Intelligent Technologies and Robotics
+    - Law and Criminology
+    - Literature, Cultural and Media Studies
+    - Mathematics and Statistics
+    - Medicine
+    - Physics and Astronomy
+    - Religion and Philosophy
+    - Social Sciences
+
+
 ## [Coursera Offers Free Certificates for 85 Courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/?fbclid=IwAR3P4sEXpv5YhsVPVgYIA7XCCY_5vuhXrV8r8g92_0iasEg_6N2EHE9VL8Y)
 
 None of the courses belong to a Coursera Specialization. This offer is only valid until the end of May 2020. Once you checkout, you will have 180 days to earn a certificate.
