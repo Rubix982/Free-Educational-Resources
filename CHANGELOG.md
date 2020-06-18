@@ -1,0 +1,1 @@
+- Changed named from *Free-Educational-Resources-During-Corona-Epidemia* to *Free-Educational-Resources* since many of the resources don't exactly fall into the Corona epidemia; that is, they are free indefinitely.
