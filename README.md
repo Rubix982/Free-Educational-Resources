@@ -258,3 +258,12 @@ Udemy's 30+ free courses. The below is the list of course sbeing offered:
 
 - Bring AWS Educate to your institution.
 Put the power of cloud learning in the hands of all instructors and students. By signing up as an AWS Educate member institution, your students and staff receive additional benefits, including more AWS Promotional Credit. Not sure if your school has joined? View our membership list.
+
+## Google Related
+
+### [#CloudSeekho](https://events.withgoogle.com/cloudseekho/?fbclid=IwAR0YGtXQ6fqilhsOklarr4tb0F9DOtp4jxksC3GERdN_d8C9NrbBQmYyXQw)
+Hello Student Developers in Pakistan,
+
+Welcome to #CloudSeekho. You get an opportunity to self study Google Cloud Platform related tools and technologies starting with one month free access to Qwiklabs and receive a cool swag pack depending on the number of quests you complete. Sounds interesting? Complete as many quests as you can from the list below.
+
+Note : This competition is only for students enrolled to a registered University program. 
