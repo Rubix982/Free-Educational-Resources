@@ -5,6 +5,43 @@ This is a repository meant to serve as a place where people can update and write
 
 This is not a repository to contain solely programming or computer science related areas, but to categorize and generalize into other fields, interests and hobbies as well.
 
+## [Opportunities - Network Info](www.opportunitiesnetwork.info)
+
+A list by opportunitiesnetwork.info. An updated List of Top Free Online Courses in 2020 with a Free Certificate.
+Don't forget to enroll in these courses, and get benefits.
+
+1. [British Council Free Online Courses](https://bit.ly/british-council-free-courses)
+
+2. [University of Washington Free Online Courses](https://bit.ly/UW-courses)
+
+3. [COVID-19 Free Online Course](https://bit.ly/COVID-19-Course)
+
+4. [Microsoft Free Online Courses](https://bit.ly/microsoft-free-online-courses)
+
+5. [Harvard University Free Online Courses](https://bit.ly/harvard-university-free-online-courses)
+
+6. [Google Free Online Courses](https://bit.ly/google-free-online-courses)
+
+7. [Online Graphics Design Courses by Coursera](https://bit.ly/free-graphic-design-course)
+
+8. [Asian Development Bank Free Online Courses](https://bit.ly/asian-development-bank-free-online-courses)
+
+9. [SDG ACADEMY Free Online Courses](https://bit.ly/sdg-courses)
+
+10. [Digital Marketing Free Online Courses by Google](https://bit.ly/google-free-online-courses)
+
+11. [UNICEF Free Online Courses](https://bit.ly/unicef-free-online-courses)
+
+12. [WHO Free Online Courses With Certificate](https://bit.ly/who-courses)
+
+13. [DAAD Free Online Courses](https://bit.ly/367SF9g)
+
+14. [Huawei Free Online Courses](https://bit.ly/huawei-courses)
+
+15. [FutureLearn Free Online Courses](https://bit.ly/futurelearn-courses)
+
+16. [Boston University Free Online Courses](https://bit.ly/2B5TVyf)
+
 ## [Udemy Offers 500+ Free Courses](https://www.udemy.com/courses/free/?lang=en&sort=popularity)
 
 - We’re here to help. We understand things feel uncertain right now, and we’re all looking for ways we can help. At Udemy, our mission is to improve lives through learning. Sometimes that means new skills for a new career, and sometimes it’s as simple as realizing a lifelong passion. To support you through this time, we’ve put together this collection from the free courses in our learning marketplace.
