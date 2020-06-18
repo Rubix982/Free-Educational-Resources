@@ -267,3 +267,12 @@ Hello Student Developers in Pakistan,
 Welcome to #CloudSeekho. You get an opportunity to self study Google Cloud Platform related tools and technologies starting with one month free access to Qwiklabs and receive a cool swag pack depending on the number of quests you complete. Sounds interesting? Complete as many quests as you can from the list below.
 
 Note : This competition is only for students enrolled to a registered University program. 
+
+# Temporarily Here
+
+## [15 Free Udemy Courses (100% off Coupons) on Programming [Limited Time]](https://www.reddit.com/r/learnprogramming/comments/hbe68n/15_free_udemy_courses_100_off_coupons_on/?utm_medium=android_app&utm_source=share)
+
+
+Good Evening everyone,
+Love Learning, Just found some of the top courses to learn programming on Udemy . Some of the instructors are giving 100% off coupons due to the quarantine. Grabbed most of them from r/FreeUdemyCoupons and some from Facebook group. Might help some of you out. Let's learn together
+Once you enroll this course you can get lifetime updates - u/abjinternational.
