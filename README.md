@@ -144,6 +144,10 @@ Co-founders
 - Coursera for Campus will be available globally at no cost to any university impacted by COVID19.
 Universities can sign up to provide their enrolled students with access to more than 3,800 courses and 400 Specializations from Coursera’s university and industry partners.
 
+### [Machine Learning Courses for FREE from Coursera](https://www.reddit.com/r/learnmachinelearning/comments/hk2pji/last_month_machine_learning_courses_for_free_from/)
+
+Due to COVID-19, Coursera has made free some of their Courses and you can earn a Certificate for FREE until 7/31/20. Main article link is [this](https://medium.com/@exploreroftruth/earn-coursera-certificates-for-free-on-some-programming-courses-during-the-coronavirus-epidemic-e5c468c912b7).
+
 ## [Unity](https://twitter.com/unity3d/status/1240696698009079808)
 
 - "Starting today, all Unity users have access to Learn Premium – 350 hours of bite-sized tutorials, hands-on projects, and in-depth courses for free." 
